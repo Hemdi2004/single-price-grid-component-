@@ -48,7 +48,7 @@ Flexbox properties
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight) - This helped me to understand flexbox properties
+- [Example resource 1](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - This helped me to understand flexbox properties
 
 ## Author
 
